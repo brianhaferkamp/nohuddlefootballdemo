@@ -1,6 +1,6 @@
-# Quick Play Football Demo
+# No Huddle Football Demo
 
-Demo for the new Quick Play Football game still in development from The Clark & Addison Gaming Co.
+Demo for the new No Huddle Football game still in development from The Clark & Addison Gaming Co.
 
 ### What you'll need to play
 - Two complete decks of playing cards (without extra cards and jokers)
