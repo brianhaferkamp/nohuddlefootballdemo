@@ -9,6 +9,8 @@ Demo for the new No Huddle Football game still in development from The Clark & A
 - Team cards
 - Special plays charts
 
+[Download game components](https://raw.github.com/brianhaferkamp/nohuddlefootballdemo/main/.pdf)
+
 ## Setup
 Download:
 - Teams
