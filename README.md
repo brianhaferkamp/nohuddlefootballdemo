@@ -1,2 +1,20 @@
-# quickplayfootballdemo
-Demo for the new Quick Play Football game still in development
+# Quick Play Football Demo
+
+Demo for the new Quick Play Football game still in development from The Clark & Addison Gaming Co.
+
+### What you'll need to play
+- Two complete decks of playing cards (without extra cards and jokers)
+- Tokens for clock, downs, and field position
+- Scoresheet(s)
+- Team cards
+- Special plays charts
+
+## Setup
+Download:
+- Teams
+- Special plays charts
+- Drives scoresheet
+- Yardage scoresheet
+
+Shuffle both cards decks.
+Write in teams on scoresheets.
