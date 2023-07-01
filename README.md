@@ -13,7 +13,7 @@ Demo for the new No Huddle Football game still in development from The Clark & A
 
 ## Setup
 
-Shuffle both cards decks.\
+Shuffle both card decks.\
 Print and fill in scoresheets.\
 Print team cards and special plays charts.
 
